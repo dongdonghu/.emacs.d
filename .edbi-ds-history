@@ -1,0 +1,1 @@
+(("dbi:mysql:zodiac_:127.0.0.1:3306" "root" "") ("dbi:mysql:zodiac:127.0.0.1:3306" "root" "") ("dmi:mysql:dbname=zodiac_:127.0.0.1:3306" "root" "") ("dmi:mysql:dbname=zodiac_:127.0.0.1" "root" "") ("dbi:mysql:127.0.0.1:zodiac_" "root" "") ("dbi:mysql:database=zodiac_:host=\"127.0.0.1\"" "root" "") ("dbi:mysql:database=zodiac_:host=\"127.0.0.1:3306\"" "root" ""))

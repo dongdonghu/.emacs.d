@@ -71,7 +71,7 @@ Call a second time to restore the original window configuration."
 
 
 
-(windmove-default-keybindings 'control)
+;;(windmove-default-keybindings 'control)
 
 
 (provide 'init-windows)
